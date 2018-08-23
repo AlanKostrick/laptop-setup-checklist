@@ -80,7 +80,7 @@
 - Gradle
 	- Download `gradle-<version>-all.zip` distribution
 	- Extract to `C:\gradle\<version>`
-	- Add `C:\gradle\<version>\bin` to path (in explorer, right click the computer icon for this pc, properties, advanced system settings, environment variables, system variables, path, edit...copy and past the link for gradle bin...best way to grab this is to navigate to the gradle bin location on your system and copy the url 
+	- Add `C:\gradle\<version>\bin` to path (in explorer, right click the computer icon for this pc, properties, advanced system settings, environment variables, system variables, path, edit...copy and past the link for gradle bin...best way to grab this is to navigate to the gradle bin location on your system and copy the url) 
 	- Verify by opening new Git Bash window, running `gradle` 
 
 - Sublime Text 3
